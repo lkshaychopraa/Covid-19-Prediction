@@ -1,5 +1,7 @@
 # Covid-19-Prediction
 Miscellaneous Small Projects on Covid-19 Predictions
+
+
 #In cellular automata, the von Neumann neighborhood (or 4-neighborhood) is classically defined on a two-dimensional square lattice and is composed of a central cell and its four adjacent cells. 
 
 #In cellular automata, the Moore neighborhood is defined on a two-dimensional square lattice and is composed of a central cell and the eight cells that surround it.
